@@ -1,0 +1,13 @@
+A scraper for Amazon Wish List items that are cheaper than a specified price. Note that the scraper cannot get a price for some items (possibly because they are out of stock) and so these are listed as "We can't get a price". An example of one of these items is: "Mr. Penumbra's 24-Hour Bookstore":http://www.amazon.co.uk/dp/0374214913.
+
+h3. Version 1.2 (05/01/2013)
+
+Added try/except blocks to try and catch all errors.
+
+h3. Version 1.1 (02/01/2013)
+
+Fixed a bug for when the scraper can't find a price for an Amazon Wish List item. The scraper should now work for all Amazon Wish List items.
+
+h3. Version 1.0 (01/01/2013)
+
+Released.
